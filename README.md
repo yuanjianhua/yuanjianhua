@@ -2,7 +2,7 @@
 
 Hi ALL，我是袁建华，大家熟叫Mark.Yuan。
 
-目前正研究前端中...
+负责后端开发，主要以PHP为主。目前正深入研究前端中...，欢迎大家一起讨论。
 
 <!--
 **yuanjianhua/yuanjianhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
