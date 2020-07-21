@@ -2,7 +2,8 @@
 
 Hi ALL，我是袁建华，大家熟叫Mark.Yuan。
 
-负责后端开发，主要以PHP为主，熟悉Laravel、Lumen、CI、ThinkPHP、SpeedPHP，WordPress、Joomla等等 。熟悉前端，目前正深入研究前端中...，欢迎大家一起讨论。
+负责后端开发，主要以PHP为主，熟悉Laravel、Lumen、CI、ThinkPHP、SpeedPHP，WordPress、Joomla等等 。
+熟悉前端，目前正深入研究前端中...，欢迎大家一起讨论。
 
 <!--
 **yuanjianhua/yuanjianhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
