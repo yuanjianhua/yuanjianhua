@@ -2,6 +2,8 @@
 
 Hi ALL，我是袁建华，大家熟叫Mark.Yuan。
 
+目前正研究前端中...
+
 <!--
 **yuanjianhua/yuanjianhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
